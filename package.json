@@ -2,7 +2,7 @@
   "name": "RainLoop Email",
   "cozy-type": "static",
   "cozy-displayName": "RainLoop Email",
-  "version": "1",
+  "version": "1.0.0",
   "description": "An iFrame to my webmail",
   "icon-path": "main_icon.png"
 }
