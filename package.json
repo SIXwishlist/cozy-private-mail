@@ -1,0 +1,8 @@
+{
+  "name": "RainLoop Email",
+  "cozy-type": "static",
+  "cozy-displayName": "RainLoop Email",
+  "version": "1",
+  "description": "An iFrame to my webmail",
+  "icon-path": "main_icon.png"
+}
